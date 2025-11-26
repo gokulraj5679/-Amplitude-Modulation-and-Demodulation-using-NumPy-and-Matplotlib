@@ -1,3 +1,4 @@
+<img width="1280" height="721" alt="image" src="https://github.com/user-attachments/assets/fa04df2b-7dfa-4661-a890-8cd4de264409" />
 # -Amplitude-Modulation-and-Demodulation-using-NumPy-and-Matplotlib
 
 __Aim__: 
@@ -26,7 +27,14 @@ __Algorithm__:
 
  __Output__:
 
+<img width="1280" height="721" alt="image" src="https://github.com/user-attachments/assets/04b61be5-4b72-440d-8ddd-9f7252c57a13" />
+
+
+<img width="892" height="1279" alt="image" src="https://github.com/user-attachments/assets/7339756e-cb1e-477f-9bc4-13db463f27fe" />
 
  __Result__:
+
+
+ Thus the amplitude modulation (AM) using Python's NumPy and Matplotlib libraries was succesfully executed and its output is verfied. 
 
 
