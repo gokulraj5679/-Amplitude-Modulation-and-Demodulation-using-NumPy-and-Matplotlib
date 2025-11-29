@@ -1,4 +1,4 @@
-<img width="1280" height="721" alt="image" src="https://github.com/user-attachments/assets/fa04df2b-7dfa-4661-a890-8cd4de264409" />
+
 # -Amplitude-Modulation-and-Demodulation-using-NumPy-and-Matplotlib
 
 __Aim__: 
